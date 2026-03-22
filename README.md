@@ -180,17 +180,17 @@ Green is colour '1', blue is colour '2'.
 - Store the value of Delta (printed on the terminal).
 - Check that `{flip}_Phylogenetic_deltadistances.txt` and `{flip}_MFPT_deltadistances.txt` has been generated in ./outputs/DeltaAndFlips/ for 1flip, 2flip and 3flip.
 
-<!-- 3. @Enzo
-- Transfer QuadrupleFlip folder to HPC Apocrita
-- qsub PHY_flip.sh
-- check that outputs for Phylogenetic have been generated in QuadrupleFlip/data folder
-- qsub MFPT_flip.sh
-- check that outputs for MFPT have been generated in QuadrupleFlip/data folder
-- qsub merge_flip_PHY.sh
-- check that `4flip_Phylogenetic_deltadistances.txt` has been generated in QuadrupleFlip folder
-- qsub merge_flip_MFPT.sh
-- check that `4flip_MFPT_deltadistances.txt` has been generated in QuadrupleFlip folder
-- download QuadrupleFlip into ./outputs/DeltaAndFlips/ -->
+3.
+- Transfer QuadrupleFlip folder to an HPC
+- Launch PHY_flip.sh
+- Check that outputs for Phylogenetic have been generated in QuadrupleFlip/data folder
+- Launch MFPT_flip.sh
+- Check that outputs for MFPT have been generated in QuadrupleFlip/data folder
+- Launch merge_flip_PHY.sh
+- Check that `4flip_Phylogenetic_deltadistances.txt` has been generated in QuadrupleFlip folder
+- Launch merge_flip_MFPT.sh
+- Check that `4flip_MFPT_deltadistances.txt` has been generated in QuadrupleFlip folder
+- Download QuadrupleFlip into ./outputs/DeltaAndFlips/
 
 4. 
 - Run FigS3.py
