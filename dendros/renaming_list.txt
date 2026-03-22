@@ -1,0 +1,14 @@
+Arabidopsis
+Asplenium
+Brachypodium
+Brassica
+Barley
+Isoetes
+Sweetpea
+Lemna
+Lilium
+Marislea
+Switchgrass
+Selaginella
+Tomato
+Triticum
