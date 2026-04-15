@@ -1,0 +1,15 @@
+Species,Arabidopsis,Asplenium,Brachypodium,Barley,Isoetes,Sweetpea,Lemna,Lilium,Marislea,Switchgrass,Selaginella,Tomato,Triticum,Brassica
+Arabidopsis,,407,152,152,430,108,152,152,407,152,430,121,152,21
+Asplenium,,,407,407,430,407,407,407,225,407,430,407,407,407
+Brachypodium,,,,33.2,430,152,131,112,407,48,430,152,33.2,152
+Barley,,,,,430,152,131,112,407,48,430,152,11.84,152
+Isoetes,,,,,,430,430,430,430,430,375,430,430,430
+Sweetpea,,,,,,,152,152,407,152,430,121,152,121
+Lemna,,,,,,,,131,407,131,430,152,131,152
+Lilium,,,,,,,,,407,112,430,152,112,152
+Marislea,,,,,,,,,,407,430,407,407,407
+Switchgrass,,,,,,,,,,,430,152,48,152
+Selaginella,,,,,,,,,,,,430,430,430
+Tomato,,,,,,,,,,,,,152,121
+Triticum,,,,,,,,,,,,,,152
+Brassica,,,,,,,,,,,,,,
