@@ -86,6 +86,10 @@ This folder contains subfolders for MFPT data analysis:
 
     Contains MFPT files for real nets.
 
+- **Attacks_MFPT**
+
+    Contains MFPT files for attacked nets.
+
 #### **outputs**
 This folder contains the outputs of the main analysis scripts:
 - **ClusterSizeTreelikeness**  
